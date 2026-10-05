@@ -77,3 +77,14 @@ Through these problems, I improved my understanding of arrays, strings, hashing,
 ## Repository
 
 GitHub Repository: https://github.com/chinmayinadakatti-lang/HackerRank-3rdSem-Portfolio
+
+## HackerRank Evidence
+
+- Diagonal Difference: Accepted – 10 points
+- Dynamic Array: Accepted – 15 points
+- Time Conversion: Accepted – 15 points
+- Compare the Triplets: Accepted – 10 points
+- Sparse Arrays: Accepted – 25 points
+- Problem Solving Badge: 3-Star ⭐⭐⭐
+
+The screenshots of the accepted submissions and 3-Star badge are included in the Activity 8 PDF report.
